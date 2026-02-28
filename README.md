@@ -45,6 +45,13 @@ Ce projet a pour objectif d’atteindre un niveau B2 en lecture, à l’oral et 
 
   Il s'agit de la section consacrée au vocabulaire français.
 
+  ### Liste des mots
+
+| Mot | Sens du mot | Synonyme | Traduction en anglais |
+|-----|------------|----------|----------------------|
+| exemple | illustration ou cas représentatif | modèle | example |
+| apprendre | acquérir des connaissances | étudier | to learn |
+
 </details>
 
 <details>
