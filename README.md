@@ -14,7 +14,7 @@ Ce projet a pour objectif d’atteindre un niveau B2 en lecture, à l’oral et 
   Il s'agit de la section consacrée à la lecture, à l'écriture, à la copie et au résumé.
 
   Fichiers de mon journal :
-  1. [Ma journée idéale](https://docs.google.com/document/d/e/2PACX-1vTEqeQ0LnpwadHzykP4MRrOysB2DoDFck6Cg4PDWBwT1A1ZKOO3QoDrtaqrxeJsiRkfbgZbUImqNXVZ/pub)
+  1. [Ma journée idéale](https://mon-apprentissage-srishti-saurav.blogspot.com/2026/02/ma-journee-ideale.html)
   2. Je souffre de fatigue cognitive
 
 </details>
