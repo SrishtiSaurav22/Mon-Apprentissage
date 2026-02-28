@@ -27,8 +27,9 @@ Ce projet a pour objectif d’atteindre un niveau B2 en lecture, à l’oral et 
   ### Conjugaison des verbes
 
   1. Parler
-     ![/assets/images/setup/sample-image.png]
-  2. 
+     
+     <img src="assets/images/setup/sample-image.png" width="50%">
+  3. 
 
 </details>
 
